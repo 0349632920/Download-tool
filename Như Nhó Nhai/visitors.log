@@ -1,0 +1,19 @@
+[13/09/2026 17:07:58] [GPS] IP=42.113.16.37 | Lat=21.0283 | Lon=105.854 | Acc=±5000m
+[13/09/2026 17:09:25] [GPS] IP=42.113.16.37 | Lat=21.0283 | Lon=105.854 | Acc=±5000m
+[2026-09-13 17:12:27] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /
+[2026-09-13 17:12:31] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /api/location
+[13/09/2026 17:12:31] [GPS] IP=42.113.16.37 | Router=26.0.0.1 | Lat=21.0283 | Lon=105.854 | Acc=±5000m
+[2026-09-13 17:15:16] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /
+[2026-09-13 17:15:17] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /
+[2026-09-13 17:15:21] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /api/location
+[13/09/2026 17:15:21] [GPS] IP=42.113.16.37 | Router=26.0.0.1 | Lat=21.0283 | Lon=105.854 | Acc=±5000m | Maps=https://www.google.com/maps?q=21.0283,105.854
+[2026-09-13 17:17:46] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /
+[2026-09-13 17:17:59] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /
+[2026-09-13 17:26:07] [OK] IP=2405:4803:fde0:bd20:4548:d808:e83f:76ad | Router=26.0.0.1 | ISP=FPT | /
+[2026-09-13 17:26:17] [OK] IP=2405:4803:fde0:bd20:4548:d808:e83f:76ad | Router=26.0.0.1 | ISP=FPT | /
+[2026-09-13 17:26:37] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /app
+[2026-09-13 17:26:40] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /
+[2026-09-13 17:26:41] [OK] IP=42.113.16.37 | Router=26.0.0.1 | ISP=FPT Telecom Company | /api/location
+[13/09/2026 17:26:42] [GPS] IP=42.113.16.37 | Router=26.0.0.1 | Lat=21.0283 | Lon=105.854 | Acc=±5000m | Maps=https://www.google.com/maps?q=21.0283,105.854
+[13/09/2026 17:27:41] [GPS] IP=127.0.0.1 | Router=26.0.0.1 | Lat=21.0283 | Lon=105.854 | Acc=±5000m | Maps=https://www.google.com/maps?q=21.0283,105.854
+[2026-09-13 17:29:09] [OK] IP=2405:4803:fde0:bd20:4548:d808:e83f:76ad | Router=26.0.0.1 | ISP=FPT | /

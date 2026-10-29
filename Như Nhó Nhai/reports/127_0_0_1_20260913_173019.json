@@ -1,0 +1,36 @@
+{
+  "ip": "127.0.0.1",
+  "geo": {},
+  "device": {
+    "manufacturer": "Test",
+    "model": "Demo",
+    "android_version": "13",
+    "device_id": "test123"
+  },
+  "location": {
+    "lat": 10.77689,
+    "lon": 106.70123,
+    "accuracy": 15
+  },
+  "apps": [
+    {
+      "name": "Facebook",
+      "package": "com.facebook.katana",
+      "is_user": true
+    },
+    {
+      "name": "Zalo",
+      "package": "com.zing.zalo",
+      "is_user": true
+    },
+    {
+      "name": "YouTube",
+      "package": "com.google.android.youtube",
+      "is_user": true
+    }
+  ],
+  "router_ip": "26.0.0.1",
+  "local_ip": "192.168.1.209",
+  "gmaps": "https://www.google.com/maps?q=10.77689,106.70123",
+  "time": "13/09/2026 17:30:18"
+}
